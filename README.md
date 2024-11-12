@@ -32,7 +32,7 @@ To process and store document embeddings in ChromaDB, you need to upload the doc
 - **Output** : Asset ID
 
 
- ##RAG Chatbot Service
+ ## RAG Chatbot Service
 To start the FastAPI application, use `uvicorn` with the following command. This command launches the app in development mode, making it accessible at `http://127.0.0.1:8001/docs`.
 
 ```bash
